@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="functionaltest" tests="1" assertions="1" failures="0" errors="0" time="6.781288">
+    <testsuite name="GoogleTest" file="/Users/yamitcardenas/desarrollo/workspace/katas/php/functionaltest/GoogleTest.php" tests="1" assertions="1" failures="0" errors="0" time="6.781288">
+      <testcase name="testSearch" class="GoogleTest" file="/Users/yamitcardenas/desarrollo/workspace/katas/php/functionaltest/GoogleTest.php" line="18" assertions="1" time="6.781288"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

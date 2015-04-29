@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="unittest" tests="1" assertions="1" failures="0" errors="0" time="0.004353">
+    <testsuite name="CalculatorTest" file="/Users/yamitcardenas/desarrollo/workspace/katas/php/unittest/CalculatorTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.004353">
+      <testcase name="testPlus" class="CalculatorTest" file="/Users/yamitcardenas/desarrollo/workspace/katas/php/unittest/CalculatorTest.php" line="8" assertions="1" time="0.004353"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
